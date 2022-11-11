@@ -2,7 +2,7 @@
 
 A Simple, Easy to Use resource, that allows Players to have multiple Characters, which can be configured to All players with the `Config.Slots` or To each Player personally using the `setslots`, `remslots`, `enablechar` and `disablechar` Commands :)
 
-![Preview](https://i.imgur.com/iAlNnM8.png)
+![Preview](https://cdn.discordapp.com/attachments/962665287491133460/1040642910573572186/multicharacter1.PNG)
 
 ## Relogging
 
