@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 author 'ESX-Framework - Linden - KASH'
-description 'Official Multicharacter System For ESX Legacy'
+description 'Redesign by JGUsman#5140'
 version '1.8.5'
 lua54 'yes'
 
