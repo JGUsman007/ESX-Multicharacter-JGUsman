@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    user-select: none;
+    color: rgb(255, 255, 255);
+	font-weight: 300;
+	font-size: 1.6vh;
+    font-family: Calibri, "Helvetica", san-serif;
+}
+
+html {
+    overflow: hidden;
+}
+
+p {
+    margin: 0 !important;
+}
+
+body {
+	background: linear-gradient(90deg, rgba(224, 36, 139, 0.171) 35%, rgba(0, 213, 255, 0.308) 100%);
+}
+
+.main-container {
+    display:none;
+    position: absolute;
+	top: 50%;
+    right: 150;
+    transform: translate(0, -50%);
+	background: rgba(102, 102, 102, 0.171);
+}
+
+.header {
+	font-family: 'Oswald', sans-serif;
+	position: absolute;
+	background: rgba(104, 102, 102, 0);
+	height: 10%;
+	width: 100%;
+    left: 50%;
+	text-align: center;
+    transform: translate(-50%);
+	font-weight: 500;
+	padding-bottom: 5px;
+	font-size: 1.6rem;
+	
+}
+
+.footer {
+	position: absolute;
+	font-size: 0rem;
+}
+
+.character-box {
+	display: flex;
+	right: 0;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	line-height: 1.4rem;
+	height: calc(40rem);
+	width: 15rem;
+	border-radius: 4px;
+	border: 1px rgb(255, 255, 255) solid;
+}
+
+h1 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 22px;
+	padding-top: 1.3rem;
+	display: block;
+	font-weight: 0;
+}
